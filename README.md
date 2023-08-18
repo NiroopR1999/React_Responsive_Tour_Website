@@ -1,26 +1,26 @@
 
-# Tippy - React Responsive Tour Website
+# Trippy - React Responsive Tour Website
 
 
-Tippy is a multipage responsive tour and travel website built using React. This project provides an intermediate-level demonstration of creating a modern, interactive, and visually appealing website for a tour and travel agency. With Tippy, users can explore various travel destinations, view tour packages, and get in touch with the agency easily.
+Trippy is a multipage responsive tour and travel website built using React. This project provides an intermediate-level demonstration of creating a modern, interactive, and visually appealing website for a tour and travel agency. With Trippy, users can explore various travel destinations, view tour packages, and get in touch with the agency easily.
 
 ## Features
 
-**Responsive Design:** Tippy is designed to be accessible and functional across a range of devices, including desktops, tablets, and smartphones.
+**Responsive Design:** Trippy is designed to be accessible and functional across a range of devices, including desktops, tablets, and smartphones.
 
- **Multiple Pages:** The website consists of multiple pages, including a homepage, destination listings, individual destination pages, and a contact page.
+**Multiple Pages:** The website consists of multiple pages, including a homepage, destination listings, individual destination pages, and a contact page.
 
- **Tour Packages:** Users can browse through different tour packages offered by the agency, complete with detailed descriptions and pricing information.
+**Tour Packages:** Users can browse through different tour packages offered by the agency, complete with detailed descriptions and pricing information.
 
 **Destination Information:** Each destination page provides in-depth information about the location, its attractions, and activities.
 
-**Contact Form:** Tippy includes a contact page with a user-friendly contact form that allows users to easily get in touch with the agency.
+**Contact Form:** Trippy includes a contact page with a user-friendly contact form that allows users to easily get in touch with the agency.
 
 **Interactive Components:** The website features interactive components such as image sliders, navigation menus, and hover effects to enhance the user experience.
 
 ## Demo
 
-Check out the live demo of Tippy: [Tippy Demo](https://niroopr1999.github.io/React_Responsive_Tour_Website)
+Check out the live demo of Trippy: [Trippy Demo](https://niroopr1999.github.io/React_Responsive_Tour_Website)
 
 ## Usage
 
