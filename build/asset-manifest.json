@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React_Responsive_Tour_Website/static/css/main.21c3ea6c.css",
+    "main.js": "/React_Responsive_Tour_Website/static/js/main.3b10642a.js",
+    "static/media/2.jpg": "/React_Responsive_Tour_Website/static/media/2.bbb41348bb839b9124d8.jpg",
+    "static/media/1.jpg": "/React_Responsive_Tour_Website/static/media/1.509d4d795248ac9962f3.jpg",
+    "static/media/12.jpg": "/React_Responsive_Tour_Website/static/media/12.257c5311e1cae5638aad.jpg",
+    "static/media/8.jpg": "/React_Responsive_Tour_Website/static/media/8.9d1ddd2ceb0e8def6f48.jpg",
+    "static/media/10.jpg": "/React_Responsive_Tour_Website/static/media/10.b4cae24d2bff7fc2e5f0.jpg",
+    "static/media/img.jpg": "/React_Responsive_Tour_Website/static/media/img.4e05635750afada848c3.jpg",
+    "static/media/5.jpg": "/React_Responsive_Tour_Website/static/media/5.46b372902997b3fbd648.jpg",
+    "static/media/4.jpg": "/React_Responsive_Tour_Website/static/media/4.0c7885e97d08f0a61db1.jpg",
+    "static/media/night.jpg": "/React_Responsive_Tour_Website/static/media/night.ac6d287d5d0014553b87.jpg",
+    "index.html": "/React_Responsive_Tour_Website/index.html",
+    "main.21c3ea6c.css.map": "/React_Responsive_Tour_Website/static/css/main.21c3ea6c.css.map",
+    "main.3b10642a.js.map": "/React_Responsive_Tour_Website/static/js/main.3b10642a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21c3ea6c.css",
+    "static/js/main.3b10642a.js"
+  ]
+}
